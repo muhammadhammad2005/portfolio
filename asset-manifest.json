@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2876a8de.css",
+    "main.js": "/portfolio/static/js/main.5763b6da.js",
+    "static/media/AWS EC2 Instance Create Using Bash.png": "/portfolio/static/media/AWS EC2 Instance Create Using Bash.cfb12cad3fe399ff2c70.png",
+    "static/media/face-recognition.png": "/portfolio/static/media/face-recognition.d6c9f6dfa18fe7acc892.png",
+    "static/media/Ansible.png": "/portfolio/static/media/Ansible.b4ef13555d7969baff0d.png",
+    "static/media/about.png": "/portfolio/static/media/about.0dba6e3e67befaeba4e4.png",
+    "static/media/hero.png": "/portfolio/static/media/hero.16723a0a1c725f6d65f5.png",
+    "static/media/Linux.png": "/portfolio/static/media/Linux.f94cd68cdeb53a453ae5.png",
+    "static/media/Jenkins.png": "/portfolio/static/media/Jenkins.e497f2388b3e4bf5cb81.png",
+    "static/media/Docker-Makefile-Two-Tier.png": "/portfolio/static/media/Docker-Makefile-Two-Tier.88cf9071bc72d2505893.png",
+    "static/media/Name.png": "/portfolio/static/media/Name.706e485fda1e6c198e8b.png",
+    "static/media/Kubernetes.png": "/portfolio/static/media/Kubernetes.a3f51654280c8f147d85.png",
+    "static/media/AWS.png": "/portfolio/static/media/AWS.c428f722b289bdceeab2.png",
+    "static/media/Apache.png": "/portfolio/static/media/Apache.5b32b46f5bea26f2d65b.png",
+    "static/media/Bash.png": "/portfolio/static/media/Bash.97f4f2b6352d30522daf.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.138af6ce65cd59a39782.png",
+    "static/media/vscode.png": "/portfolio/static/media/vscode.9da637ae18b05b4a2f99.png",
+    "static/media/Python.png": "/portfolio/static/media/Python.9c47735ea0c4a2d20349.png",
+    "static/media/github.png": "/portfolio/static/media/github.68bbeafeade821944d14.png",
+    "static/media/Nginx.png": "/portfolio/static/media/Nginx.0bb73e11a77cd1513765.png",
+    "static/media/Yaml.png": "/portfolio/static/media/Yaml.b10b474bb99bff93adaa.png",
+    "index.html": "/portfolio/index.html",
+    "main.2876a8de.css.map": "/portfolio/static/css/main.2876a8de.css.map",
+    "main.5763b6da.js.map": "/portfolio/static/js/main.5763b6da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2876a8de.css",
+    "static/js/main.5763b6da.js"
+  ]
+}

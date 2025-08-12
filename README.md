@@ -41,4 +41,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 - **Email:** [mohammadhammad.tech@gmail.com](mailto:mohammadhammad.tech@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/mhammadtech](https://linkedin.com/in/mhammadtech/)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+- **Portfolio:** [click here](https://muhammadhammad2005.github.io/portfolio/)  

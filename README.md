@@ -24,43 +24,18 @@ It serves as a central hub for potential employers, collaborators, and visitors 
 
 ---
 
-## 📂 Project Structure
+## 📜 License
 
-```plaintext
-portfolio/
-│── index.html       # Main page
-│── style.css        # Styling file
-│── script.js        # JavaScript functionality
-│── assets/          # Images and icons
-│── projects.js      # Projects data
-│── README.md        # Documentation
+This project is licensed under the **MIT License** – feel free to use and modify it.
 
 ---
 
-🚀 Installation & Usage
+## 👥 Contributors
 
-1. Clone the Repository
-
-git clone https://github.com/yourusername/portfolio.git
-
-
-2. Navigate to the Project Folder
-
-cd portfolio
+- **VijayKumarReddyTalakola** – Original template design inspiration  
+- **muhammadhammad2005** – Customization & modifications
 
 ---
-
-📜 **License:**
-
-This project is licensed under the MIT License – feel free to use and modify it.
-
----
-
-👥 "Contributors:"
-
-VijayKumarReddyTalakola – Original template design inspiration
-
-Muhammad Hammad – Customization & modifications
 
 ## 📬 Contact Me
 

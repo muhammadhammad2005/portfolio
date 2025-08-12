@@ -1,14 +1,14 @@
 const ProfileData = {
   img: require("../assets/Images/hero.png"),
   logo: require("../assets/Images/Name.png"),
-  name: "Vijay Kumar",
-  professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
+  name: "Muhammad Hammad",
+  professions: ["DevOps Engineer", "AWS | Docker | Kubernetes", "CI/CD & Infrastructure as Code"],
   info: [
-    "Knack of building web applications using MERN stack.",
-    "I enjoy designing tech websites.",
+    "Knack of containerizing and deploying apps using Docker and Kubernetes.",
+    "I enjoy building CI/CD pipelines and automating infrastructure as code.",
   ],
   resume:
-    "https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx",
+    "https://drive.google.com/drive/folders/1CfFv_fCIM3Vp3Gt2VdM1DyJQuSDFepGV?usp=sharing",
 };
 
 export default ProfileData;

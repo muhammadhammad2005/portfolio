@@ -1,9 +1,9 @@
 const AboutData = {
   image: require("../assets/Images/about.png"),
   description: [
-    "A passionate and dedicated web developer with a strong background in creating visually stunning and highly functional websites with 2 years of experience in the field.",
-    "Throughout my career, I have developed proficiency in various web technologies including HTML5 , CSS3 , JavaScript. I am well-versed in popular libraries such as React and frameworks like Next ,Tailwind allowing me to build robust and responsive websites.",
-    "I'm excited to take on new challenges and contribute to innovative projects. Feel free to connect with me through my social media link",
+    "A dedicated and self-driven DevOps enthusiast with hands-on experience in cloud infrastructure, automation, and system administration.",
+    "Skilled in using Docker and Kubernetes for containerization and orchestration. I specialize in building CI/CD pipelines with GitHub Actions, and automating infrastructure using Terraform and Ansible.",
+    "Passionate about Linux, scripting with Bash, Python & YAML, and simplifying deployment workflows. I'm always eager to take on new challenges and explore innovative cloud solutions.",
   ],
 };
 export default AboutData;

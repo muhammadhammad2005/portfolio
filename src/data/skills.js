@@ -1,63 +1,55 @@
 const SkillsData = [
   {
-    name: "HTML",
-    image: require("../assets/Images/html.png"),
+    name: "Docker",
+    image: require("../assets/Images/docker.png"),
   },
   {
-    name: "CSS",
-    image: require("../assets/Images/css.png"),
+    name: "Kubernetes",
+    image: require("../assets/Images/Kubernetes.png"),
   },
   {
-    name: "JavaScript",
-    image: require("../assets/Images/javascript.png"),
+    name: "Jenkins",
+    image: require("../assets/Images/Jenkins.png"),
   },
   {
-    name: "TypeScript",
-    image: require("../assets/Images/typescript.png"),
+    name: "Ansible",
+    image: require("../assets/Images/Ansible.png"),
   },
   {
-    name: "MongoDB",
-    image: require("../assets/Images/mongodb.png"),
+    name: "Linux",
+    image: require("../assets/Images/Linux.png"),
   },
   {
-    name: "Express",
-    image: require("../assets/Images/express.png"),
+    name: "YAML",
+    image: require("../assets/Images/Yaml.png"),
   },
   {
-    name: "React",
-    image: require("../assets/Images/react.png"),
+    name: "Python",
+    image: require("../assets/Images/Python.png"),
   },
   {
-    name: "Node",
-    image: require("../assets/Images/node.png"),
+    name: "Bash",
+    image: require("../assets/Images/Bash.png"),
   },
   {
-    name: "Redux",
-    image: require("../assets/Images/redux.png"),
+    name: "Terraform",
+    image: require("../assets/Images/Terraform.png"),
   },
   {
-    name: "Next",
-    image: require("../assets/Images/next.png"),
+    name: "AWS",
+    image: require("../assets/Images/AWS.png"),
   },
   {
-    name: "Tailwind",
-    image: require("../assets/Images/tailwind.png"),
+    name: "Apache",
+    image: require("../assets/Images/Apache.png"),
   },
   {
-    name: "Firebase",
-    image: require("../assets/Images/firebase.png"),
-  },
-  {
-    name: "Prisma",
-    image: require("../assets/Images/prisma.png"),
+    name: "Nginx",
+    image: require("../assets/Images/Nginx.png"),
   },
   {
     name: "MySQL",
     image: require("../assets/Images/mysql.png"),
-  },
-  {
-    name: "Postman",
-    image: require("../assets/Images/postman.png"),
   },
   {
     name: "VS Code",
